@@ -17,7 +17,7 @@ On your VS Code, open the folder ( by using file option on your VSCode or code f
     $ git push                                      // This will push the code to the repository on GitHub
 
 ```
-###How to open a folder on VSCode with a command
+### How to open a folder on VSCode with a command
 ```
     $ code folderName
 ```
